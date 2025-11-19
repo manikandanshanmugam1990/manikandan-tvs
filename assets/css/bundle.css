@@ -237,12 +237,12 @@ textarea {
 /*************************
     Section title 1
 ***********************/
-.section-title{}
-.section-title h3 {
+.section_title_wrap{}
+.section_title_wrap h3 {
   font-size: 36px;
   margin-bottom: 20px;
 }
-.section-title.text-white h3 {
+.section_title_wrap.text-white h3 {
   color: #ffffff;
 }
 
@@ -1034,7 +1034,7 @@ textarea:focus {
   width: 100px;
 }
 
-.section-title:hover .separator::before {
+.section_title_wrap:hover .separator::before {
   width: 75%;
 }
 
