@@ -1635,3 +1635,27 @@
 
 
 }
+
+@media(min-width: 320px) and (max-width: 767px){
+.prd_item_dec,.prd_action,.prd_cont_wrapper,.slider_social_wrapper{
+display: none !important;
+}
+.prd_wrap{
+box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.overview-area{
+padding-top: 0 !important;
+}
+.single-slider.slider-1{
+padding: 0 !important;
+}
+.slider-content h2 {
+color: #8c8686;
+position: absolute;
+bottom: -40px;
+font-size: 26px;
+}
+.overview-content{
+margin-top: 35px;
+}
+}

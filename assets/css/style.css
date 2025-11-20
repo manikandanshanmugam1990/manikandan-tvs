@@ -964,7 +964,7 @@ h2,h4,p{
 }
 .prd_item_dec li {
     display: inline-block;
-    color: #9b9b9b;
+    color: #000;
     margin: 0 15px;
     position: relative;
 }
