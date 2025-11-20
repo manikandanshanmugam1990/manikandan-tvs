@@ -1658,4 +1658,7 @@ font-size: 26px;
 .overview-content{
 margin-top: 35px;
 }
+.latest_product_area_wrapper {
+    padding: 0 !important;
+}
 }
